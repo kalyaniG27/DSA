@@ -5,10 +5,10 @@ class Solution {
         int fast = nums[0];
 
         // Find intersection point
-        do {
+        while(true) {
             slow = nums[slow];
             fast = nums[nums[fast]];
-        } while (slow != fast);
+         if(slow == fast){
 
         // Find entrance of cycle
         slow = nums[0];
@@ -16,8 +16,9 @@ class Solution {
         while (slow != fast) {
             slow = nums[slow];
             fast = nums[fast];
+        } return slow;
         }
-
-        return slow;
+        }
+        //return -1;
     }
 }
