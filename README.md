@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/kalyaniG27/DSA/tree/master/2390-removing-stars-from-a-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kalyaniG27/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
