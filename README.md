@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kalyaniG27/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kalyaniG27/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kalyaniG27/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/kalyaniG27/DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/kalyaniG27/DSA/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kalyaniG27/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kalyaniG27/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kalyaniG27/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/kalyaniG27/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/kalyaniG27/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/kalyaniG27/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kalyaniG27/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kalyaniG27/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/kalyaniG27/DSA/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kalyaniG27/DSA/tree/master/0056-merge-intervals) |
+| [0645-set-mismatch](https://github.com/kalyaniG27/DSA/tree/master/0645-set-mismatch) |
 ## Quicksort
 |  |
 | ------- |
