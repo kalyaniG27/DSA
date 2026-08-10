@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kalyaniG27/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/kalyaniG27/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kalyaniG27/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/kalyaniG27/DSA/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/kalyaniG27/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/kalyaniG27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/kalyaniG27/DSA/tree/master/0287-find-the-duplicate-number) |
