@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/kalyaniG27/DSA/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/kalyaniG27/DSA/tree/master/0577-employee-bonus) |
+| [1075-project-employees-i](https://github.com/kalyaniG27/DSA/tree/master/1075-project-employees-i) |
 ## Sweep Line
 |  |
 | ------- |
