@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalyaniG27/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kalyaniG27/DSA/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalyaniG27/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/kalyaniG27/DSA/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalyaniG27/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kalyaniG27/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/kalyaniG27/DSA/tree/master/0143-reorder-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalyaniG27/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/kalyaniG27/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/kalyaniG27/DSA/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kalyaniG27/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
